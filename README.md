@@ -20,12 +20,19 @@ This project is set up using **Vite** for fast development, with **ESLint** and 
 
 ## 📂 Project Structure
 ├── index.html # Main HTML file
+
 ├── src/ # Application source code
+
 ├── vite.config.ts # Vite configuration
+
 ├── tailwind.config.js # Tailwind CSS configuration
+
 ├── postcss.config.js # PostCSS configuration
+
 ├── eslint.config.js # ESLint configuration
+
 ├── tsconfig*.json # TypeScript configurations
+
 
 
 ## ⚡ Getting Started
