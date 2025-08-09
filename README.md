@@ -32,11 +32,21 @@ This project is set up using **Vite** for fast development, with **ESLint** and 
 
 1️⃣ Clone the Repository
 git clone https://github.com/rajyuvraj969/Scientific_calculator_NeXora
+
+
+
 2️⃣ Install Dependencies
+
 npm install
 
+
+
+
 3️⃣ Run in Development
+
 npm run dev
+
+
 
 📜 License
 This project is licensed under the MIT License.
