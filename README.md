@@ -53,6 +53,10 @@ npm install
 
 npm run dev
 
+Clone the Repository
+
+scientificcalculator-five.vercel.app
+
 
 
 📜 License
