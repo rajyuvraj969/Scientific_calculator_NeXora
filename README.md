@@ -55,7 +55,7 @@ npm run dev
 
 Clone the Repository
 
-scientificcalculator-five.vercel.app
+ clone [scientificcalculator-five.vercel.app](https://scientificcalculator-five.vercel.app/)
 
 
 
